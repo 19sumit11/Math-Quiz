@@ -14,7 +14,7 @@ export const data = [
         option2:"2r",
         option3:"2πr",
         option4:"2πr^2",
-        ans:2,
+        ans:1,
 
     }
 ];

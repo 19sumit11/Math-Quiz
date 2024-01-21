@@ -55,3 +55,13 @@
     margin: auto;
     font-size: 18px;
 }
+
+.container .correct{
+    background: #f8e2e2;
+    background-color: #00d397;
+}
+
+.container .wrong{
+    background: #ef7272;
+    border-color: #ad3d3d;
+}
