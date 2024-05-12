@@ -1,4 +1,4 @@
-export const Data = [
+export const data = [
     {
         question: "What is the value of π (pi) to two decimal places?",
         option1: "a) 3.14",
