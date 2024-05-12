@@ -4,7 +4,7 @@ export const data = [
         option1: "a) 3.14",
         option2: "b) 3.12",
         option3: "c) 3.16",
-        option4: "d) 3.18",
+        option4: "d) 3.17",
         ans: 1,
     },
     {
