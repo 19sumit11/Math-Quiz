@@ -30,7 +30,7 @@
 .container ul li{
     display: flex;
     align-items: center;
-    height: 40px;
+    height: auto;
     padding-left: 15px;
     border: 1px solid #686868;
     border-radius: 8px;
